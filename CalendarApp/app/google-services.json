@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771194992559",
+    "firebase_url": "https://calendarapp-b7119.firebaseio.com",
+    "project_id": "calendarapp-b7119",
+    "storage_bucket": "calendarapp-b7119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771194992559:android:620494bfa9c25554",
+        "android_client_info": {
+          "package_name": "com.example.cristal.calendarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771194992559-tr0un59m8bn6r2l42q5jl8jna6ecuqst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cristal.calendarapp",
+            "certificate_hash": "129a4bf76de9f1a64e6dbf752a31beea2fe91be2"
+          }
+        },
+        {
+          "client_id": "771194992559-o843tq2a507lmqvj0qi2rl4dktoq2m9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1TrW7gkDGq6rGjEAMLwgvki-FiLLTw8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771194992559-o843tq2a507lmqvj0qi2rl4dktoq2m9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
